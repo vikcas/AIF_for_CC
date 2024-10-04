@@ -1,0 +1,5 @@
+.idea*
+.venv*
+*.pdf
+*.csv
+.DS_store*
